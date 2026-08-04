@@ -9,6 +9,7 @@ This article focuses on the differences in climate policy implementation across 
 ## Contributors
 
 Katelyn Nutley, University of St Andrews/ Harvard University 
+
 Hugh Martin, Tweed Forum 
 
 ## Contact 
