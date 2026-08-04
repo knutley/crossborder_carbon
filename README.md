@@ -1,6 +1,6 @@
 # Cross-Border Carbon
 
-This article focuses on the differences in climate policy implementation across the English-Scottish border post-Brexit. We specifically focus on 
+This article measures the impact of post-Brexit divergence in UK climate policy on the actual, on-the-ground delivery of woodland carbon sequestration projects.
 
 ## Technical Requirments
 
