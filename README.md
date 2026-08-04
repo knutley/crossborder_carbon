@@ -1,6 +1,6 @@
 # Cross-Border Carbon
 
-This article measures the impact of post-Brexit divergence in UK climate policy on the actual, on-the-ground delivery of woodland carbon sequestration projects.
+This article measures the impact of post-Brexit divergence in UK climate policy in on-the-ground delivery of woodland carbon sequestration projects.
 
 ## Technical Requirments
 
